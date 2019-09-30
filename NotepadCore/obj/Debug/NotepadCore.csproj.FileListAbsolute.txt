@@ -1,0 +1,4 @@
+D:\NotePade\NotePad\NotepadCore\bin\Debug\NotepadCore.dll
+D:\NotePade\NotePad\NotepadCore\bin\Debug\NotepadCore.pdb
+D:\NotePade\NotePad\NotepadCore\obj\Debug\NotepadCore.dll
+D:\NotePade\NotePad\NotepadCore\obj\Debug\NotepadCore.pdb

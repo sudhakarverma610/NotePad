@@ -1,0 +1,13 @@
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\Notepad.Forms.FormAbout.resources
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\Notepad.Forms.FormFind.resources
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\Notepad.Forms.FormReplace.resources
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\Notepad.MainForm.resources
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache
+D:\NotePade\NotePad\NotePad\bin\Debug\NotePad.exe
+D:\NotePade\NotePad\NotePad\bin\Debug\NotePad.pdb
+D:\NotePade\NotePad\NotePad\bin\Debug\NotepadCore.dll
+D:\NotePade\NotePad\NotePad\bin\Debug\NotepadCore.pdb
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\NotePad.csprojResolveAssemblyReference.cache
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+D:\NotePade\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
